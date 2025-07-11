@@ -50,7 +50,7 @@ with st.sidebar:
 
 @st.cache_resource
 def load_model():
-    model = joblib.load("/Users/sarthaksharna/NewsWise/model/tfidf_svc_bbc_classifier.pkl")
+    model = joblib.load("model/tfidf_svc_bbc_classifier.pkl")
     return model
 
 
