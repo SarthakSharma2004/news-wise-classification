@@ -33,12 +33,12 @@ The modern digital world generates **millions of news articles daily**, making i
 ## 🛠️ **Tech Stack**
 
 - **Frontend:** Streamlit (interactive app, neon-themed UI)
-- **Backend:** Python, Scikit-learn, Joblib
+- **Backend:** Python, Scikit-learn, gensim, nltk
 - **ML Techniques:** 
    - TF-IDF Vectorization
    - Bag of Words (BoW)
    - Custom-trained Word2Vec (experimented)
-   - SVM Classifier
+   - Classification Models
 - **Deployment:** Easily deployable on Streamlit Community Cloud or Render.
 
 ---
@@ -49,6 +49,18 @@ The modern digital world generates **millions of news articles daily**, making i
 ✨ **Dark, modern UI with neon highlights for an aesthetic experience.**  
 ✨ **Interactive sidebar for seamless navigation.**  
 ✨ **Lightweight, fast, and beginner-friendly codebase.**
+
+---
+
+
+### **How this helps:**
+
+✅ **Clean, modern structure:** Good spacing and sections for clarity.  
+✅ **Uses bold headings for easy scanning.**  
+✅ **Uses emojis for visual appeal.**  
+✅ **Looks excellent on GitHub on both desktop and mobile.**  
+✅ **Ready to copy-paste into your repo directly.**
+
 
 ---
 
@@ -100,13 +112,4 @@ Made by Sarthak Sharma
 # ---------------------------------------
 
 
----
-
-### **How this helps:**
-
-✅ **Clean, modern structure:** Good spacing and sections for clarity.  
-✅ **Uses bold headings for easy scanning.**  
-✅ **Uses emojis for visual appeal.**  
-✅ **Looks excellent on GitHub on both desktop and mobile.**  
-✅ **Ready to copy-paste into your repo directly.**
 
