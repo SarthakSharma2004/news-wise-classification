@@ -62,7 +62,13 @@ The modern digital world generates **millions of news articles daily**, making i
 
 ## 🗂️ **Project Structure**
 
-
+news-wise-classification/
+│
+├── app.py # Main Streamlit app
+├── model/
+│ └── tfidf_svc_bbc_classifier.pkl # Saved ML model
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 
 ---
