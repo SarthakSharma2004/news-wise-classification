@@ -2,6 +2,10 @@
 
 ## ✨ News Categorization 
 
+### Link to App :
+
+https://news-wise.streamlit.app/
+
 ---
 
 ## 📌 **What is NewsWise?**
@@ -33,12 +37,15 @@ The modern digital world generates **millions of news articles daily**, making i
 ## 🛠️ **Tech Stack**
 
 - **Frontend:** Streamlit (interactive app, neon-themed UI)
-- **Backend:** Python, Scikit-learn, gensim, nltk
-- **ML Techniques:** 
+
+- **Frameworks and Libraries:** Python, Scikit-learn, gensim, nltk
+
+- **ML Techniques Used:** 
    - TF-IDF Vectorization
    - Bag of Words (BoW)
-   - Custom-trained Word2Vec (experimented)
+   - Custom-trained Word2Vec 
    - Classification Models
+
 - **Deployment:** Easily deployable on Streamlit Community Cloud or Render.
 
 ---
@@ -64,13 +71,6 @@ The modern digital world generates **millions of news articles daily**, making i
 
 ---
 
-## 📸 **Screenshots**
-
-<p align="center">
-  <img src="https://github.com/yourusername/news-wise-classification/assets/your_screenshot.png" alt="NewsWise Screenshot" width="700"/>
-</p>
-
----
 
 ## 🗂️ **Project Structure**
 
@@ -102,11 +102,6 @@ pip install -r requirements.txt
 
 
 streamlit run app.py
-
-
-
-🧑‍💻 Author
-Made by Sarthak Sharma
 
 
 # ---------------------------------------
